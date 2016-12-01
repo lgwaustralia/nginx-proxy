@@ -5,6 +5,10 @@ nginx-proxy sets up a container running nginx and [docker-gen][1].  docker-gen g
 
 See [Automated Nginx Reverse Proxy for Docker][2] for why you might want to use this.
 
+### Modified By
+
+Lance White
+
 ### Usage
 
 To run it:

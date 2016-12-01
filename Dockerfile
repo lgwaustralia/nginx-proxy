@@ -1,5 +1,5 @@
 FROM nginx:latest
-MAINTAINER Jason Wilder mail@jasonwilder.com
+MAINTAINER Lance White lgwaustralia@gmail.com
 
 # Install wget and install/updates certificates
 RUN apt-get update \
