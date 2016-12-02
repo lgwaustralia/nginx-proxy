@@ -7,7 +7,7 @@ See [Automated Nginx Reverse Proxy for Docker][2] for why you might want to use 
 
 ### Modified By
 
-Lance White test build docker
+Lance White test build docker and push container update webook docker hub
 
 ### Usage
 
